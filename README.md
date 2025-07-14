@@ -6,17 +6,6 @@ Electronico apasionado por el software
 
 Soy estudiante de Ingeniería Electrónica con gran interés en el desarrollo de software.
 
-.
-
-Me encuentro en constante formación como desarrollador backend y fullstack, creando proyectos propios para fortalecer mis habilidades en distintas tecnologías.
-
-.
-
-Me gusta aprender haciendo, y por eso estoy construyendo un portafolio con proyectos reales que combinan lógica, diseño de sistemas y funcionalidades completas.
-
-.
-
-Actualmente estoy enfocado en mejorar mis conocimientos en frameworks de desarrollo, buenas prácticas de programación, estructuras de datos y despliegue de aplicaciones.
 
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [portafolio](http://sdfsd)
