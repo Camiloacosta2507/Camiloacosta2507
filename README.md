@@ -5,8 +5,13 @@ Electronico apasionado por el software
 --------------------------------------
 
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [portafolio](http://sdfsd)
-* ✉️  You can contact me at [jcamiloacosta2507@gmail.com](mailto:jcamiloacosta2507@gmail.com)
+
+### 📫 Contáctame
+
+- 📧 Email: [jcamiloacosta2507@gmail.com](mailto:jcamiloacosta2507@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 🌐 [Portafolio Web](https://tuportafolio.vercel.app)
+
 
 ### Skills
 
