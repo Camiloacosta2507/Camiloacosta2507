@@ -9,7 +9,7 @@ Electronico apasionado por el software
 ### 📫 Contáctame
 
 - 📧 Email: [jcamiloacosta2507@gmail.com](mailto:jcamiloacosta2507@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/camilo-acosta-7479a1263/)  
 - 🌐 [Portafolio Web](https://vercel.com/camilo-projets)
 
 
