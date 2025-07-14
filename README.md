@@ -4,9 +4,6 @@ Hi 👋 My name is Camilo Acosta
 Electronico apasionado por el software
 --------------------------------------
 
-Soy estudiante de Ingeniería Electrónica con gran interés en el desarrollo de software.
-
-
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [portafolio](http://sdfsd)
 * ✉️  You can contact me at [jcamiloacosta2507@gmail.com](mailto:jcamiloacosta2507@gmail.com)
